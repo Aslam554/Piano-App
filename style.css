@@ -1,0 +1,65 @@
+*{
+    padding:0px;
+    margin-left:5px;
+}
+
+#labl{
+    width:40%;
+    height:80px;
+    background-color:white;
+    color: black;
+    display:block;
+    margin:auto ;
+    border-radius:15px;
+    font-size: 40px;
+    padding: 0px;
+}
+.Sh{
+    position:absolute;
+    background-color:black;
+    height:140px;
+    width:70px;
+    top:70px;
+    
+}
+#C{ 
+  left:30%;
+ }
+#D{ 
+    left:36%;
+ }
+#E{
+    left:42%;
+ }
+#F{ 
+    left:48%;
+ }
+#G{
+    left:54%;
+ }
+ .box{
+    width: 50%;
+    border:5px solid black;
+    border-radius: 10px;
+    padding: 1px;
+    margin: auto;
+ }
+button{ 
+    outline:none;
+    width:91px;
+    height:250px;
+    background-color:white;
+    margin-left:-10px;
+    color:red;
+    border-radius:15px;
+    font-family:cursive;
+    font-weight:900;
+    font-size:40px;
+    padding-top: 50px;
+}
+button:nth-child(2){
+    margin:0px;
+}
+button:hover{
+    border-color:red;
+}
